@@ -1,4 +1,4 @@
-![Alt Text](https://64.media.tumblr.com/d396ae9404f5698fff18a004ceff10b0/232a8158e9d10921-e9/s400x600/9c92e32af42101547f71335d30023f327f795af4.gifv)
+![Alt Text]([https://media.tenor.com/NqeTF7CcgQMAAAAC/jjk-jujutsu-kaisen.gif])
 
 ###    🌱 I'm a learner, and that's what i like to be......
 
