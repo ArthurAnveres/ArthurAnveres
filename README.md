@@ -50,10 +50,6 @@
 
 > **Note:** Most of my >1k recent commits are in private company repositories. I am highly active on daily development and feature shipping.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurAnveres&show_icons=true&theme=transparent&hide_border=true&title_color=2CA5E0&text_color=ffffff" alt="GitHub Stats" />
-</div>
-
 ---
 
 ## 📫 Let's Connect
